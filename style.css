@@ -413,7 +413,7 @@ body{
 }
 .container .cloud:first-child::before{
     position: absolute;
-    content: 'Trang ngơ sinh nhật vui vẻ, ấn vào thư nhé';
+    content: 'Trang ngơ sinh nhật vui vẻ';
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
@@ -424,7 +424,7 @@ body{
 }
 .container .cloud:last-child::before{
     position: absolute;
-    content: 'hê sờ lô, hơ sờ Trang ngơ';
+    content: 'Thọ ngang trời đất';
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 9px;
